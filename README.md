@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/Fonzl/Fonzl/assets/95137917/401a0d8b-331d-43f3-8a8b-faa8d0d02f5e" />
+<img align="center" alt="GIF" src="1535435641_Butcher+jugg.gif" />
 
 ### Hi there 👋
 <div aling = center>
