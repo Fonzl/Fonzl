@@ -1,6 +1,6 @@
 <img align="center" alt="GIF" src="1535435641_Butcher+jugg.gif" />
 
-### Hi there 👋
+<title>Я падж . Я русский </title>
 <div aling = center>
   <img align="right"  src="maxresdefault.jpg" width="500" height="320" />
 </div>
