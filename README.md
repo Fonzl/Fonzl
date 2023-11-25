@@ -4,7 +4,7 @@
 <div aling = center>
   <img align="right"  src="maxresdefault.jpg" width="500" height="320" />
 </div>
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 Meat Hook — кидает свой крюк во врага и притягивает его к себе.
 
 Rot — излучает опасные токсины, нанося урон по площади и замедляя противников.
@@ -12,6 +12,12 @@ Rot — излучает опасные токсины, нанося урон п
 Flesh Heap — дает герою дополнительный показатель силы и сопротивления к магии.
 
 Dismember — начинает заживо пожирать противника, тем самым оглушая его и нанося урон.
+<h3 align="center">Обо мне</h3>
+- Самая красивая тян
+- Дочь маминой подруги
+- Меня хоят все
+- На меня глядит игриво
+Пиво, пиво, пиво, пиво
 <!--
 **Fonzl/Fonzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
