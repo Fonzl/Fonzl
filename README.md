@@ -24,7 +24,7 @@ Dismember — начинает заживо пожирать противник�
 
 - Пиво, пиво, пиво, пиво
   <div aling = center>
-  <img   src="https://github.com/Fonzl/Fonzl/assets/95137917/47285ed3-14bf-4e03-9ef4-6cd524ff146e" />
+  <img   src="https://github.com/Fonzl/Fonzl/assets/95137917/47285ed3-14bf-4e03-9ef4-6cd524ff146e" /> «Поскорее бы уже их всех добить, знатный пирог получится.»
 </div>
 <!--
 **Fonzl/Fonzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
