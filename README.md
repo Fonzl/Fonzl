@@ -14,10 +14,14 @@ Flesh Heap — дает герою дополнительный показате
 Dismember — начинает заживо пожирать противника, тем самым оглушая его и нанося урон.
 <h3 align="center">Обо мне</h3>
 - Самая красивая тян
+
 - Дочь маминой подруги
+  
 - Меня хоят все
+  
 - На меня глядит игриво
-Пиво, пиво, пиво, пиво
+
+- Пиво, пиво, пиво, пиво
 <!--
 **Fonzl/Fonzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
